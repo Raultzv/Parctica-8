@@ -1,0 +1,40 @@
+body{ 
+    background-color:burlywood;
+}
+h1{
+    text-align: center;
+    font-size: 200%;
+    color: darkred;
+    font-family: arial;
+}
+p.carta {
+    color:darkred;
+    font-size: 100%;
+   height: 40px;
+    border-bottom: black 1px solid; 
+}
+h2.color{
+    font-size: 150%;
+    color: darkred;
+    font-family: arial;
+}
+h2.iz{
+    text-align: left;
+}
+h2.cen{
+    text-align: center
+}
+h2.der{
+    text-align: right
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+hr {
+    color: black;
+}
+p.cafe {
+    color:darkred;
+    font-size: 100%;
+}
